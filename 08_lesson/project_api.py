@@ -6,7 +6,7 @@ class ProjectAPI:
         self.company_id = company_id
         self.headers = {
             # Попробуем самый надежный для Yougile заголовок для API-ключей
-            "Authorization": f"Bearer {"gRJOhVTXUueK40M2BH2j2wAcB8Nc+WKWOrmgv2DOhIw3wuyhfE82vrO21aCPbPFo"}", 
+            "Authorization": "Bearer gRJOhVTXUueK40M2BH2j2wAcB8Nc+WKWOrmgv2DOhIw3wuyhfE82vrO21aCPbPFo", 
             "Content-Type": "application/json"
         }
 
