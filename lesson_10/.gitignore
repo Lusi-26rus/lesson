@@ -1,0 +1,16 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Отчеты и результаты Allure
+allure-results/
+allure-report/
+
+# Кэш Python и Pytest
+__pycache__/
+.pytest_cache/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
